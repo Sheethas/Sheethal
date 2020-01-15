@@ -12,7 +12,6 @@
           "card": "birds_on_street_at_city_thumbnail.jpg",
           "background": "birds_on_street_at_city_bg.jpg",
           "title": "Birds on street at city",
-          "studio": "Pexel: https://videos.pexels.com/videos/birds-on-street-at-city-485"
         },
         {
           "id": 1,
@@ -23,7 +22,6 @@
           "card": "waterfall_stream_nature_thumbnail.jpg",
           "background": "waterfall_stream_nature_bg.jpg",
           "title": "Waterfall stream nature",
-          "studio": "Pexel: https://videos.pexels.com/videos/waterfall-stream-nature-423"
         },
         {
           "id": 2,
@@ -34,7 +32,6 @@
           "card": "slow_motion_dog_people_and_a_firecracker_thumbnail.jpg",
           "background": "slow_motion_dog_people_and_a_firecracker_bg.jpg",
           "title": "Slow motion dog people and a firecracker",
-          "studio": "Pexel: https://videos.pexels.com/videos/slow-motion-dog-people-and-a-firecracker-525 "
         }
       ]
     },
@@ -50,7 +47,6 @@
           "card": "greenhouse_with_cacti_thumbnail.jpg",
           "background": "greenhouse_with_cacti_bg.jpg",
           "title": "Greenhouse with cacti",
-          "studio": "Pexel: https://videos.pexels.com/videos/greenhouse-with-cacti-534"
         },
         {
           "id": 101,
@@ -61,7 +57,6 @@
           "card": "timelapse_of_stockholm_at_night_thumbnail.jpg",
           "background": "timelapse_of_stockholm_at_night_bg.jpg",
           "title": "Timelapse of stockholm at night",
-          "studio": "https://videos.pexels.com/videos/timelapse-of-stockholm-at-night-539"
         },
         {
           "id": 102,
@@ -72,7 +67,6 @@
           "card": "roller_coaster_thumbnail.jpg",
           "background": "roller_coaster_bg.jpg",
           "title": "Roller coaster",
-          "studio": "Pexel: https://videos.pexels.com/videos/roller-coaster-560"
         }
       ]
     }
