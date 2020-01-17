@@ -9,8 +9,8 @@
                     "sources": [
                         "BigBuckBunny.mp4"
                     ],
-                    "card": "birds_on_street_at_city_thumbnail.jpg",
-                    "background": "birds_on_street_at_city_bg.jpg",
+                    "card": "images/BigBuckBunny.jpg",
+                    "background": "images/BigBuckBunny.jpg",
                     "title": "Big Buck Bunny",
                     "studio": ""
                 },
@@ -53,8 +53,8 @@
                     "sources": [
                         "ElephantsDream.mp4"
                     ],
-                    "card": "mages/ElephantsDream.jpg",
-                    "background": "mages/ElephantsDream.jpg",
+                    "card": "images/ElephantsDream.jpg",
+                    "background": "images/ElephantsDream.jpg",
                     "title": "ElephantDream",
                     "studio": ""
                 },
