@@ -145,17 +145,6 @@
                     "background": "images/ForBiggerMeltdowns.jpg",
                     "title": "For Bigger Meltdowns",
                     "studio": ""
-                },
-                {
-                    "id": 13,
-                    "description": "Havefun!!!",
-                    "sources": [
-                        "ForBiggerFun.mp4"
-                    ],
-                    "card": "images/ForBiggerFun.jpg",
-                    "background": "images/ForBiggerFun.jpg",
-                    "title": "ForBiggerFun",
-                    "studio": ""
                 }
             ]
         },
@@ -304,22 +293,11 @@
                     "background": "images/ForBiggerMeltdowns.jpg",
                     "title": "For Bigger Meltdowns",
                     "studio": ""
-                },
-                {
-                    "id": 13,
-                    "description": "Havefun!!!",
-                    "sources": [
-                        "ForBiggerFun.mp4"
-                    ],
-                    "card": "images/ForBiggerFun.jpg",
-                    "background": "images/ForBiggerFun.jpg",
-                    "title": "ForBiggerFun",
-                    "studio": ""
                 }
             ]
         },
         {
-            "category": "Family",
+            "category": "Comedy",
             "videos": [
                 {
                     "id": 100,
@@ -463,22 +441,11 @@
                     "background": "images/ForBiggerMeltdowns.jpg",
                     "title": "For Bigger Meltdowns",
                     "studio": ""
-                },
-                {
-                    "id": 113,
-                    "description": "Havefun!!!",
-                    "sources": [
-                        "ForBiggerFun.mp4"
-                    ],
-                    "card": "images/ForBiggerFun.jpg",
-                    "background": "images/ForBiggerFun.jpg",
-                    "title": "ForBiggerFun",
-                    "studio": ""
                 }
             ]
         },
         {
-            "category": "Kids",
+            "category": "Drama",
             "videos": [
                 {
                     "id": 0,
@@ -621,17 +588,6 @@
                     "card": "images/ForBiggerMeltdowns.jpg",
                     "background": "images/ForBiggerMeltdowns.jpg",
                     "title": "For Bigger Meltdowns",
-                    "studio": ""
-                },
-                {
-                    "id": 13,
-                    "description": "Havefun!!!",
-                    "sources": [
-                        "ForBiggerFun.mp4"
-                    ],
-                    "card": "images/ForBiggerFun.jpg",
-                    "background": "images/ForBiggerFun.jpg",
-                    "title": "ForBiggerFun",
                     "studio": ""
                 }
             ]
